@@ -260,7 +260,7 @@ This project is for educational purposes as part of MLOps Assignment 3.
 
 ## 👤 Author
 
-MLOps Assignment 3 - NASA APOD Data Pipeline
+Sultan Shah, BS SE, FAST NUCES, Islamabad.
 
 ---
 
